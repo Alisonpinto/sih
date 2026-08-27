@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Shield Outer Outline with Cyan Glow -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,22 L78,32 L78,54 C78,69.5 67.8,83.8 54,88 C40.2,83.8 30,69.5 30,54 L30,32 Z" />
+    
+    <!-- Shield Inner Dark Core -->
+    <path
+        android:fillColor="#0D1929"
+        android:pathData="M54,26 L74,34.5 L74,54 C74,67.2 65.5,79.5 54,83.3 C42.5,79.5 34,67.2 34,54 L34,34.5 Z" />
+    
+    <!-- Equalizer / Voice wave bars inside shield -->
+    <!-- Bar 1 (Leftmost) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M42,50 L45,50 L45,58 L42,58 Z" />
+    <!-- Bar 2 -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M47,44 L50,44 L50,64 L47,64 Z" />
+    <!-- Bar 3 (Center - Tallest) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52.5,38 L55.5,38 L55.5,70 L52.5,70 Z" />
+    <!-- Bar 4 -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M58,44 L61,44 L61,64 L58,64 Z" />
+    <!-- Bar 5 (Rightmost) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M63,50 L66,50 L66,58 L63,58 Z" />
+</vector>

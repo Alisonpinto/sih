@@ -1,0 +1,6 @@
+{
+  "name": "VoxShield",
+  "description": "AI-powered voice protection and deepfake detection prototype for Smart India Hackathon",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
